@@ -1,0 +1,4 @@
+#created by DREADRAZE
+numpy
+scikit-image
+opencv-python
